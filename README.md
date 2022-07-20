@@ -15,3 +15,7 @@ The source codes that I publish on Kaggle.
 - House price (Competition): 
   - https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
   - My code: https://www.kaggle.com/code/oladazimi/random-forest-train-data-reduced-to-1320x28
+
+- NASA - Nearest Earth Objects:
+  - https://www.kaggle.com/datasets/sameepvani/nasa-nearest-earth-objects
+  - my code: https://www.kaggle.com/code/oladazimi/compare-classification-models-cap-evaluation
