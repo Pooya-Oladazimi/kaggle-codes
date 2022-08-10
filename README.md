@@ -24,3 +24,7 @@ The source codes that I publish on Kaggle.
   - https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data
   - my code: https://www.kaggle.com/code/oladazimi/help-ranking-elbow-dendrogram-kmeans
 
+- Product Recommendation with Apriori:
+  - https://www.kaggle.com/datasets/shikhnu/big-basket-sales-transaction-records-20112014
+  - my code: https://www.kaggle.com/code/oladazimi/product-recommendation-with-apriori 
+
