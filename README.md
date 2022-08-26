@@ -27,4 +27,8 @@ The source codes that I publish on Kaggle.
 - Product Recommendation with Apriori:
   - https://www.kaggle.com/datasets/shikhnu/big-basket-sales-transaction-records-20112014
   - my code: https://www.kaggle.com/code/oladazimi/product-recommendation-with-apriori 
+ 
+- Upper Confidence Bound (Reinforcement Learning):
+  - https://www.kaggle.com/datasets/akram24/ads-ctr-optimisation
+  - my code: https://www.kaggle.com/code/oladazimi/upper-confidence-bound-detetcion-after-600-use
 
