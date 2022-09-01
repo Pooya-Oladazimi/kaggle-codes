@@ -33,6 +33,6 @@ The source codes that I publish on Kaggle.
   - my code: https://www.kaggle.com/code/oladazimi/upper-confidence-bound-detetcion-after-600-use
  
  - Thompson Sampling (Reinforcement Learning):
-  - https://www.kaggle.com/datasets/akram24/ads-ctr-optimisation
-  - my code: https://www.kaggle.com/code/oladazimi/thompson-sampling-detetcion-after-100-use
+    - https://www.kaggle.com/datasets/akram24/ads-ctr-optimisation
+    - my code: https://www.kaggle.com/code/oladazimi/thompson-sampling-detetcion-after-100-use
 
