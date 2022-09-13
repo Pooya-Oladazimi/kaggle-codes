@@ -35,4 +35,9 @@ The source codes that I publish on Kaggle.
  - Thompson Sampling (Reinforcement Learning):
     - https://www.kaggle.com/datasets/akram24/ads-ctr-optimisation
     - my code: https://www.kaggle.com/code/oladazimi/thompson-sampling-detetcion-after-100-use
+    
+  - Youtube Video Tag Generator (NLP):
+    - https://www.kaggle.com/datasets/advaypatil/youtube-statistics
+    - my code: https://www.kaggle.com/code/oladazimi/video-keyword-generator-acc-79
+ 
 
