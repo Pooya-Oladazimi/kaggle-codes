@@ -39,5 +39,9 @@ The source codes that I publish on Kaggle.
   - Youtube Video Tag Generator (NLP):
     - https://www.kaggle.com/datasets/advaypatil/youtube-statistics
     - my code: https://www.kaggle.com/code/oladazimi/video-keyword-generator-acc-79
+  
+  - Drug classification (ANN):
+    - https://www.kaggle.com/datasets/prathamtripathi/drug-classification
+    - my code: https://www.kaggle.com/code/oladazimi/ann-classification-acc-95-to-99
  
 
